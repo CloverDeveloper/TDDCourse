@@ -11,6 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SecondCourse", "SecondCours
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondCourse", "SecondCourse\SecondCourse\SecondCourse.csproj", "{2A79116B-61CF-46D2-AB05-CDF27117A645}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SourceItem", "SourceItem", "{1438CFF5-0F1A-4CF4-9911-7465781943A6}"
+	ProjectSection(SolutionItems) = preProject
+		NUnit套件安裝.txt = NUnit套件安裝.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
